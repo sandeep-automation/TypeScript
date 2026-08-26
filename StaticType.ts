@@ -24,3 +24,5 @@ let c = "Hello"; // typescript infers that c is of type string
 
 //Adding the additonal code for practice purpose
 //to be checked and verified
+
+//adding conflict file
