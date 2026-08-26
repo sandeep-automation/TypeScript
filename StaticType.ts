@@ -19,3 +19,8 @@ console.log(add(5, 10));
 
 let c = "Hello"; // typescript infers that c is of type string
 // let c:String = "Hello"; 
+
+
+
+//Adding the additonal code for practice purpose
+//to be checked and verified
