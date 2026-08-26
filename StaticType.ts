@@ -26,3 +26,4 @@ let c = "Hello"; // typescript infers that c is of type string
 //to be checked and verified
 
 //adding conflict file-02
+//adding conflict file-01
